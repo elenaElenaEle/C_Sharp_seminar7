@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\bin\Debug\net6.0\rekursia.exe
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\bin\Debug\net6.0\rekursia.deps.json
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\bin\Debug\net6.0\rekursia.runtimeconfig.json
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\bin\Debug\net6.0\rekursia.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\bin\Debug\net6.0\rekursia.pdb
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\refint\rekursia.dll
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.pdb
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\rekursia.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\C_sharp_seminar7\rekursia\obj\Debug\net6.0\ref\rekursia.dll
